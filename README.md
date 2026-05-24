@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepmind25
+- 👋 Hi, I’m @jjc (Joseph Joshua Chibuike)
 - 👀 I’m interested in ...web security and Investigations 
 - 🌱 I’m currently learning ... cloud/API/map testing/shell/emulator/OS/security
 - 💞️ I’m looking to collaborate on ... Google/Amazon
